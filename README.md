@@ -1,16 +1,13 @@
 # apigiris
 
-A new Flutter project.
+A new online shopping  Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/ilknurdondurma/OnlineShopping/assets/79365821/091109dd-da14-4662-a65a-91c9cb34312d)
+![image](https://github.com/ilknurdondurma/OnlineShopping/assets/79365821/a64a5ca1-2d94-4ccd-bd8f-de2d3d5d6afa)
+![image](https://github.com/ilknurdondurma/OnlineShopping/assets/79365821/6dc1a0e0-1c88-4def-852c-61dabbdad2ac)
+![image](https://github.com/ilknurdondurma/OnlineShopping/assets/79365821/da22a72a-681a-43c8-9201-7096a7a8f6f7)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
